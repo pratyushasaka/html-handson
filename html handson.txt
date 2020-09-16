@@ -1,0 +1,236 @@
+   
+
+html hanson
+
+1.1
+a.<!DOCTYPE html>
+<html>
+<head>
+<title>Login page</title>
+</head>
+<body>
+<center>
+<h1>Login</h1>
+ <input type="Submit" value="Login"><br>
+<br>
+<a href="C:\Users\saka.pratyusha\Desktop\html practice\1.1.html">login page</a>
+
+</center>
+</body>
+</html>
+B...<!DOCTYPE html>
+<html>
+<head>
+<title>Address Book</title>
+</head>
+<body>
+<center>
+<h1>ADDRESS BOOK</h1>
+<form>
+Name : <input type="text" name=TextFIELD value="  "></br><br>
+Address : <input type="textarea" name=Textarea value="  "></br><br>
+City : <input type="text" name=TextFIELD value="  "></br><br>
+Postalcode :<label for="Postalcode"></label>
+  <select id="Postalcode" name="code">
+    <option value=" therlam ">535126</option>
+    <option value="rajam">535127</option>
+    <option value="bobbili">535128</option>
+    <option value="vizag">535129</option>
+  </select></br>
+TransportMode : <input type="radio" name = ".." value="Bus"> Bus </br>
+<input type="radio" name = ".." value="Car"> Car </br>
+<input type="radio" name = ".." value="Cycle"> Cycle </br>
+<input type="radio" name = ".." value="Other"> Others </br>
+Skillsets: <input type="checkbox" id="  " name="   " value="  ">
+  <label for="SkillSet">hardwork</label><br>
+  <input type="checkbox" id=" " name="  " value="  ">
+  <label for="Skillset2"> smart work</label><br>
+  <input type="checkbox" id="  " name="  " value="  ">
+  <label for="Skillset3"> IQ level</label><br><br>
+Email :  <input type="TextField" name=" "value="  "><br>
+About Yourself : <input type="TextFiled" name=" " value="  "><br>
+Register: 
+<a href="C:\Users\saka.pratyusha\Desktop\html practice\submission.html">submit</a><br>
+Reset : <input type="submit" value="Reset"><br>
+<br>
+Add new Address  :<input type="submit" value="add address">
+Deleting :<input type="submit" value="delete data">
+updating : <input type="submit" value="Update date">
+Searching for entries: <input type="submit" value="New Entries">
+
+</center>
+</form>
+</body>
+</html>
+1.1 c
+<!DOCTYPE html>
+<html>
+<head>
+<title>submission</title>
+</head>
+<body>
+<center>
+<form method="POST" action="1.1.html">
+<p>"Your details are submitted.Thank you!"</p>
+</center>
+</body>
+</html>
+
+1.2
+i.<a href="http://iknow.com"></a>
+ii.<list>
+Skillset:<ol>java</ol>
+<ol>dbms</ol></list>
+iii.personality strengths:
+<ul>hardwork</ul>
+<ul>quick learner</ul>
+
+1.3
+<!DOCTYPE html>
+<html>
+<head>
+<title>Registration</title>
+</head>
+<body>
+<center>
+<h1>Registration</h1>
+<form method="POST" action="next.html">
+User ID : <input type="text" name=TextFIELD value="  "></br><br>
+FirstName : <input type="text" name=TextField value="  "></br><br>
+Last Name : <input type="text" name=TextField value="  "></br><br>
+Address : <input type="TextArea" name=textarea value=" "></br><br>
+country :<label for="country"></label>
+  <select id="country" name="code">
+    <option value="India">535126</option>
+    <option value="china">535127</option>
+    <option value="russia">535128</option>
+    <option value="america">535129</option>
+  </select></br>
+phone no: <input type="text" name="text filed" value=" "></br></br>
+Zip code : <input type="text" name="text filed" value= " "></br></br>
+Gender : <input type="radio" name = ".." value="male"> male </br>
+<input type="radio" name = ".." value="female">female</br>
+<input type="radio" name = ".." value="other"> other </br>
+
+
+Register: <input type="submit" name="submit">
+<br>
+
+<br>
+
+
+</center>
+</form>
+</body>
+</html>
+1.3 b
+<!doctype html>
+<html>
+<head>
+<title>next</title>
+</head>
+<body>
+<center>
+<p>Your date have been uploaded</p>
+</body>
+</center>
+</html>
+
+
+1.4  <!doctype html>
+<html>
+<head>
+<title>table</title>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+</style>
+
+</head>
+<body>
+<center>
+<table style="width:25%">
+<tr><tr>
+<th>Planet name</th>
+
+<th>Year Length</th>
+<th>Day Length</th>
+</tr>
+<td>Mercury</td>
+<td>88 days</td>
+<td>59 days</td>
+
+</tr><tr>
+
+<td>Venus</td>
+<td>225 days</td>
+<td>243 days</td>
+
+</tr><tr>
+
+<td>Earth</td>
+<td>365 days</td>
+<td>24hrs</td>
+</tr>
+<td>Mars</td>
+<td>765 days</td>
+<td>24.6hrs</td>
+</tr>
+</tr>
+</table></center></body></html>
+
+1.6
+<!DOCTYPE html>
+<html>
+<head>
+<title>web page</title>
+</head>
+<body bgcolor=pink>
+<p>A couple of paragraphs of normal text</p>
+<p><b> A line with bold formatting</b></p>
+ <hr {
+color :"green"
+}A horizontal line which is green in color</hr><p>green color format</p>
+<p>
+I am using a color name to assign a color to this background
+</p>
+<center> <p>A text,which is located at the top right corner of the page</p></center>
+</head><html>
+1.9
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>login page</title>
+</head>
+<body>
+<center>
+<form action="POST" action="Success.html>
+<br>
+Logins:<input type="text" value="  "><br>
+Password:<input type="text" value=" "><br>
+Submit:<input type="submit" value="submit"><br>
+Reset:<input type="submit" value="Reset"><br>
+<a href="C:\Users\saka.pratyusha\Desktop\html practice\Success.html">Success</a>
+</center>
+</body>
+</html>
+
+1.9 b
+<!DOCTYPE html>
+<html>
+<head>
+<title>login page</title>
+</head>
+<body>
+<center>
+<form method="POST" action="Success.html">
+SUCCESS</br>
+<a href="C:\Users\saka.pratyusha\Desktop\html practice\login1.html">Login</a><br>
+</center>
+</body></html>
+
+
+
